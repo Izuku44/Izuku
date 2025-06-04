@@ -23,9 +23,9 @@
 </h4>
 
 <h1 align="center">My Projects</h1>
-  <img width="50" align="left" src="https://github.com/Kurama250/Kurama250/blob/main/img/kurama.jpg">
+  <img width="50" align="left" src="https://github.com/Izuku44/Izuku/blob/main/img/Izuku.jpg">
     <h3><a href="https://izuku44.github.io/portfolio/">My Portfolio</a></h3><br>
-  <img width="50" align="left" src="https://github.com/Kurama250/Kurama250/blob/main/img/discord.png">
+  <img width="50" align="left" src="https://github.com/Izuku44/Izuku/blob/main/img/discord.png">
     <h3><a href="https://disboard.org/fr/server/949430993662660689">Waythes🎶Neverdie</a></h3>
 
 <h1 align="center">My Stats</h1>
