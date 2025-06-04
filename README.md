@@ -35,4 +35,4 @@
 </p>
 <hi align="center">🎮 My Games</h1>
 <p align="center">
-    <img height="180em" src="https://img.shields.io/badge/Roblox-E34F26?style=flat-square&logo=Roblox5&logoColor=blue" alt="Roblox"
+    <img height="180em" src="https://img.shields.io/badge/Roblox-E34F26?style=flat-square&logo=Roblox5&logoColor=white" alt="Roblox"
