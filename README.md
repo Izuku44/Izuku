@@ -37,6 +37,6 @@
 <h1 align="center">🎮 My Games</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Roblox-E34F26?style=flat-square&logo=Roblox5&logoColor=white" alt="Roblox">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Hitman 3-1572B6?style=flat-square&logo=Hitman 33&logoColor=Red" alt="Hitman 3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
