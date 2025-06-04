@@ -20,17 +20,13 @@
 <h4 align="center">🖥️ Operating Systems & Server Management</h4>
 <h4 align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
-    <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=yellow" alt="Linux">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi%20OS-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi OS">
-    <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
-    <img src="https://img.shields.io/badge/Pterodactyl-181b29?style=flat-square&logo=pterodactyl&logoColor=white" alt="Pterodactyl">
 </h4>
 
 <h1 align="center">My Projects</h1>
   <img width="50" align="left" src="https://github.com/Kurama250/Kurama250/blob/main/img/kurama.jpg">
-    <h3><a href="https://kurama.info">My Website</a></h3><br>
+    <h3><a href="https://izuku44.github.io/portfolio/">My Portfolio</a></h3><br>
   <img width="50" align="left" src="https://github.com/Kurama250/Kurama250/blob/main/img/discord.png">
-    <h3><a href="https://xdefender.fr">xDefender</a></h3>
+    <h3><a href="https://disboard.org/fr/server/949430993662660689">Waythes🎶Neverdie</a></h3>
 
 <h1 align="center">My Stats</h1>
 <p align="center">
