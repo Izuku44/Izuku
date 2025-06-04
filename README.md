@@ -33,3 +33,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Izuku44&theme=radical" alt="Stats">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Izuku44&layout=compact&langs_count=8&theme=radical" alt="Languages">
 </p>
+
+<h1 align="center">🎮 My Games</h1>
+<p align="center">
+    <img src="https://img.shields.io/badge/Roblox-E34F26?style=flat-square&logo=Roblox5&logoColor=white" alt="Roblox">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
