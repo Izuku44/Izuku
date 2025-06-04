@@ -1,4 +1,4 @@
-<img align="center" width="1000" src="https://github.com/Kurama250/Kurama250/blob/main/img/ori.jpg">
+<img align="center" width="1000" src="https://github.com/Izuku44/Izuku44/blob/main/img/jsp.png">
 <h1 align="center">Languages | Tools | Systems</h1>
 
 <h4 align="center">🛠️ Skills & Competencies</h4>
