@@ -30,6 +30,6 @@
 
 <h1 align="center">My Stats</h1>
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kurama250&theme=radical" alt="Stats">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kurama250&layout=compact&langs_count=8&theme=radical" alt="Languages">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Izuku44&theme=radical" alt="Stats">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Izuku44&layout=compact&langs_count=8&theme=radical" alt="Languages">
 </p>
