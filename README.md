@@ -29,7 +29,7 @@
     <h3><a href="https://discord.com/invite/5jZwTybpaW">Waythes🎶Neverdie</a></h3>
   <img width="50" align="left" src="https://github.com/Izuku44/Izuku/blob/main/img/Roblox.png">
     <h3><a href="https://www.roblox.com/fr/home">Roblox</a></h3>
-  <img width="50" align="left" src="https://github.com/Izuku44/Izuku/blob/main/img/brotato.jpg">  
+  <img width="50" align="right" src="https://github.com/Izuku44/Izuku/blob/main/img/brotato.jpg">  
     <h3><a href="https://store.steampowered.com/app/1942280/Brotato/">Brotato</a></h3>
     
 <h1 align="center">My Stats</h1>
