@@ -27,16 +27,10 @@
     <h3><a href="https://izuku44.github.io/portfolio/">My Portfolio</a></h3><br>
   <img width="50" align="left" src="https://github.com/Izuku44/Izuku/blob/main/img/Discord.png">
     <h3><a href="https://discord.com/invite/5jZwTybpaW">Waythes🎶Neverdie</a></h3>
+    <img width="50" align="left" src="https://github.com/Izuku44/Izuku/blob/main/img/Sans titre.png">
 
 <h1 align="center">My Stats</h1>
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Izuku44&theme=radical" alt="Stats">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Izuku44&layout=compact&langs_count=8&theme=radical" alt="Languages">
 </p>
-
-<h1 align="center">🎮 My Games</h1>
-<p align="center">
-    <img src="https://img.shields.io/badge/Roblox-E34F26?style=flat-square&logo=Roblox5&logoColor=white" alt="Roblox">
-    <img src="https://img.shields.io/badge/Undertale-1572B6?style=flat-square&logo=Undertale3&logoColor=white" alt="Undertale">
-    <img src="https://img.shields.io/badge/Distance-F7DF1E?style=flat-square&logo=Distance&logoColor=black" alt="Distance">
-    <img src="https://img.shields.io/badge/Brotato-vYMAAOSwyXNmiUTh?style=flat-square&logo=Brotato&logoColor=white" alt="Brotato">
