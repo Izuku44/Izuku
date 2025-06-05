@@ -37,4 +37,4 @@
 <h1 align="center">🎮 My Games</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Roblox-E34F26?style=flat-square&logo=Roblox5&logoColor=white" alt="Roblox">
-    <img src="https://img.shields.io/badge/Call Of Duty Black Ops 6-E34F26?style=flat-square&logo=Call Of Duty Black Ops 65&logoColor=black" alt="Call Of Duty Black Ops 6">
+    <img src="https://img.shields.io/badge/Black Ops 6-E34F26?style=flat-square&logo=Black Ops 6&logoColor=white" alt="Black Ops 6">
