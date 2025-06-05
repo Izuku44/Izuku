@@ -39,4 +39,4 @@
     <img src="https://img.shields.io/badge/Roblox-E34F26?style=flat-square&logo=Roblox5&logoColor=white" alt="Roblox">
     <img src="https://img.shields.io/badge/Undertale-1572B6?style=flat-square&logo=Undertale3&logoColor=white" alt="Undertale">
     <img src="https://img.shields.io/badge/Distance-F7DF1E?style=flat-square&logo=Distance&logoColor=black" alt="Distance">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Brotato-3776AB?style=flat-square&logo=Brotato&logoColor=white" alt="Brotato">
