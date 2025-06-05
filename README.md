@@ -26,7 +26,7 @@
   <img width="50" align="left" src="https://github.com/Izuku44/Izuku/blob/main/img/Izuku.jpg">
     <h3><a href="https://izuku44.github.io/portfolio/">My Portfolio</a></h3><br>
   <img width="50" align="left" src="https://github.com/Izuku44/Izuku/blob/main/img/Discord.png">
-    <h3><a href="https://discord.com/invite/5jZwTybpaW">Waythes🎶Neverdie ( Best Discord Ever)</a></h3>
+    <h3><a href="https://discord.com/invite/5jZwTybpaW">Waythes🎶Neverdie</a></h3>
     
 <h1 align="center">My Stats</h1>
 <p align="center">
